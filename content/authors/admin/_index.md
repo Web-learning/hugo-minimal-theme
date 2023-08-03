@@ -37,7 +37,7 @@ social:
     link: https://www.instagram.com/weblearning
   - icon: tiktok
     icon_pack: fab
-    link: https://www.tiktok.com/weblearning
+    link: https://www.tiktok.com/@weblearning
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-1895-2918
