@@ -10,8 +10,8 @@ superuser: true
 role: 'Lead Associate'
 
 # Status emoji
-status:
-  icon: 
+# status:
+# icon: 
 
 # Organizations/Affiliations
 #organizations:
