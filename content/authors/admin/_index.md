@@ -7,19 +7,19 @@ name_pronunciation: Wu En da
 superuser: true
 
 # Role/position
-role: ''
+role: 'Lead Associate'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+- name: Weblearning
+  url: "https://www.weblearning.co.za"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Hello'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
