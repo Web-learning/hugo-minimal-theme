@@ -1,4 +1,4 @@
-# [Hugo Minimal Theme](https://github.com/wowchemy/hugo-minimal-theme)
+# Learning the Hugo Minimal Theme.
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
