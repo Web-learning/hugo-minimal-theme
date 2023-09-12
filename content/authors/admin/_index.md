@@ -1,7 +1,6 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Derek Moore
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +18,7 @@ role: 'Lead Associate'
   url: "https://www.weblearning.co.za"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Hello'
+bio: 'Hello, I'm Derek. Im an ed techie and learning designer '
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
