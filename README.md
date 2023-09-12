@@ -1,6 +1,5 @@
 # Learning the Hugo Minimal Theme.
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
 The **Minimal Template** empowers you to easily create a simple one-page site **without any code**, just using **widgets**.
 
